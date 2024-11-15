@@ -1,4 +1,4 @@
-# uh, heya? 👋
+# uhh, heya? 👋
 ## i'm programmer and musician. 😶‍🌫️
 
 ### i'm programming for the past 3 years
