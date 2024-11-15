@@ -1,5 +1,5 @@
 # uh, heya? 👋
-## im programmer and a musician. 😶‍🌫️
+## im programmer and musician. 😶‍🌫️
 
 ### im programming for the past 3 years, coding in **Haxe**, **C++**, **C#** and more.
 
