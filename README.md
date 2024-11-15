@@ -8,7 +8,7 @@
 
 ![attachment](https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a)
 
-nesquick
+nesquik
 
 ### i've also been making music for 8 years now
 #### i think that’s plenty about me for now.
