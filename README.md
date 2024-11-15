@@ -3,7 +3,7 @@
 
 ### i'm programming for the past 3 years
 
-#### coding in **Haxe**, **C++**, **C#** and more.
+#### coding in **Haxe**, **C++**, **C#**, **Python** and more.
 
 
 ![attachment](https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a)
