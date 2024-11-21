@@ -1,9 +1,9 @@
 # uhh, heya? 👋
 ## i'm programmer and musician. 😶‍🌫️
 
-### i'm programming for the past 3 years
+### i've been programming for 3 years now.
 
-#### coding in **Haxe**, **C++**, **C#**, **Python** and more.
+#### coding in **Haxe**, **C++**, **C#**, **Python**, **Java**, **JavaScript**.
 
 
 ![attachment](https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a)
