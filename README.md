@@ -1,17 +1,32 @@
 # uhh, heya? 👋
-## i'm programmer and musician. 😶‍🌫️
+### i'm programmer and musician. 😶‍🌫️
+#### i've been programming for 3 years now, also making music for 8 years now.
+## sorry, my readme is ugly, but lets start
 
-### i've been programming for 3 years now.
+<div id="header" align="center">
+  
+  ## coding in:
+  ![skills](https://skillicons.dev/icons?i=haxe,cpp,cs,py,java,js,lua)
 
-#### coding in **Haxe**, **C++**, **C#**, **Python**, **Java**, **JavaScript**.
+  ## frameworks / game engines:
+  ![frameworks](https://skillicons.dev/icons?i=haxeflixel,dotnet,godot,unity)
 
+  ## ide's:
+  ![ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
+  
+  nesquik
+  
+  <img src="https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a" width=500 height=200>
 
-![attachment](https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a)
-
-nesquik
-
-### i've also been making music for 8 years now
-#### i think that’s plenty about me for now.
-
-## bleh 🤗
-![taiho-shichau-zo-teehee](https://github.com/user-attachments/assets/7c53e2e9-25fc-4dfe-9bc0-04e9721904c4)
+  ## making music in:
+  ![daw](https://skillicons.dev/icons?i=ableton)
+  <img src="https://github.com/user-attachments/assets/306d0967-e244-4e41-aba4-c2d3c69cffbc" width=50 height=50>
+  ##
+  
+  ### ok, i think that’s plenty about me for now.
+  
+  ## bleh 🤗
+  
+  <img src="https://github.com/user-attachments/assets/7c53e2e9-25fc-4dfe-9bc0-04e9721904c4" width=250 height=166>
+  
+</div>
