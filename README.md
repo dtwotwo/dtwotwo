@@ -9,7 +9,7 @@
   ![skills](https://skillicons.dev/icons?i=haxe,cpp,cs,py,java,js,lua)
 
   ## frameworks / game engines:
-  ![frameworks](https://skillicons.dev/icons?i=haxeflixel,dotnet,qt,godot,unity)
+  ![frameworks](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,qt,godot)
 
   ## ide's:
   ![ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
