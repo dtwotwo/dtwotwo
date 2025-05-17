@@ -12,6 +12,8 @@
 
 <br/>
 
+---
+
 ### language that i use:
   
 ![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,py,java,js,lua)
@@ -30,12 +32,11 @@
   
 ![DAW](https://skillicons.dev/icons?i=ableton)  
 <img src="https://github.com/user-attachments/assets/306d0967-e244-4e41-aba4-c2d3c69cffbc" width="48" height="48" alt="fl" />
-
 <br/>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a" width="500" height="200" alt="banner" />
+<img src="https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a" width="500" height="200" alt="nesquick" />
 <p><i>"nesquik."</i></p>
 
 ---
