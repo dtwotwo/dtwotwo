@@ -1,32 +1,46 @@
-# uhh, heya? 👋
-### i'm programmer and musician. 😶‍🌫️
-#### i've been programming for 4 years now, also making music for 9 years now.
-## sorry, my readme is ugly, but lets start
+<h1 align="center">uhh, heya? — welcome to my github page</h1>
+<p align="center">im just a programmer who makes sounds... or a musician who writes code?</p>
 
-<div id="header" align="center">
-  
-  ## coding in:
-  ![skills](https://skillicons.dev/icons?i=haxe,cpp,cs,py,java,js,lua)
+---
 
-  ## frameworks / game engines:
-  ![frameworks](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,qt,godot)
+<div align="center">
 
-  ## ide's:
-  ![ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
-  
-  nesquik
-  
-  <img src="https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a" width=500 height=200>
+### what i do:
 
-  ## making music in:
-  ![daw](https://skillicons.dev/icons?i=ableton)
-  <img src="https://github.com/user-attachments/assets/306d0967-e244-4e41-aba4-c2d3c69cffbc" width=50 height=50>
-  ##
+- 🎹 **9 years** making music
+- ⌨️ **4 years** programming
+
+<br/>
+
+### language that i use:
   
-  ### ok, i think that’s plenty about me for now.
+![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,py,java,js,lua)
+
+### i build stuff with:
+
+![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,qt,godot)
+
+### where i write code?
+
+![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
+
+---
+
+### where music happens?
   
-  ## bleh 🤗
-  
-  <img src="https://github.com/user-attachments/assets/7c53e2e9-25fc-4dfe-9bc0-04e9721904c4" width=250 height=166>
-  
+![DAW](https://skillicons.dev/icons?i=ableton)  
+<img src="https://github.com/user-attachments/assets/306d0967-e244-4e41-aba4-c2d3c69cffbc" width="48" height="48" alt="fl" />
+
+<br/>
+
+---
+
+<img src="https://github.com/user-attachments/assets/24c78a2e-2249-4e44-a4a0-4f47fba4936a" width="500" height="200" alt="banner" />
+<p><i>"nesquik."</i></p>
+
+---
+
+### that's all for now. thanks for scrolling.
+<img src="https://github.com/user-attachments/assets/7c53e2e9-25fc-4dfe-9bc0-04e9721904c4" width="240" height="160" alt="goodbye" />
+
 </div>
