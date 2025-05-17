@@ -1,5 +1,5 @@
 <h1 align="center">uhh, heya? — welcome to my github page</h1>
-<h3 align="center">im just a programmer who makes sounds... or a musician who writes code?</p>
+<h3 align="center">im just a programmer who makes sounds... or a musician who writes code?</h3>
 
 ---
 
