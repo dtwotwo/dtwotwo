@@ -7,8 +7,9 @@
 
 ### what i do:
 
-- 🎹 **9 years** making music
-- ⌨️ **4 years** programming
+### 🎹 **9 years** making music
+
+### ⌨️ **4 years** programming
 <br/>
 
 ---
@@ -21,7 +22,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,qt,godot)
 
-### where i write code?
+### where code happens?
 
 ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
 
@@ -29,9 +30,8 @@
 
 ### where music happens?
   
-![DAW](https://skillicons.dev/icons?i=ableton)  
+![DAW](https://skillicons.dev/icons?i=ableton)
 <img src="https://github.com/user-attachments/assets/306d0967-e244-4e41-aba4-c2d3c69cffbc" width="48" height="48" alt="fl" />
-<br/>
 
 ---
 
@@ -43,4 +43,5 @@
 ### that's all for now. thanks for scrolling.
 <img src="https://github.com/user-attachments/assets/7c53e2e9-25fc-4dfe-9bc0-04e9721904c4" width="240" height="160" alt="goodbye" />
 
+bleh
 </div>
