@@ -1,6 +1,6 @@
 # uhh, heya? 👋
 ### i'm programmer and musician. 😶‍🌫️
-#### i've been programming for 3 years now, also making music for 8 years now.
+#### i've been programming for 4 years now, also making music for 9 years now.
 ## sorry, my readme is ugly, but lets start
 
 <div id="header" align="center">
