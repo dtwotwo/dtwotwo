@@ -10,7 +10,6 @@
 ### 🎹 **9 years** making music
 
 ### ⌨️ **4 years** programming
-<br/>
 
 ---
 
