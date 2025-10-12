@@ -47,7 +47,7 @@
 
 ### my stats
 
-[![stats](https://github-readme-stats.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### stinky
 
