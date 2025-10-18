@@ -27,7 +27,9 @@
 
 ### i build stuff with:
 
-![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,qt,godot,git)
+![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet)
+
+![Tools](https://skillicons.dev/icons?i=qt,godot,git)
 
 ### where code happens?
 
