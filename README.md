@@ -13,7 +13,7 @@
 
 ---
 
-### language that i use or know:
+### languages that i use or know:
 
 ![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,py,c)
 
