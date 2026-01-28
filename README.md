@@ -54,6 +54,10 @@
 
 #### stinky
 
+![count](https://count.getloli.com/get/@D_TWO_TWO?theme=rule34)
+
+##### heh
+
 ---
 
 <img src="img/nesquik.gif" width="500" height="200" alt="nesquick" />
