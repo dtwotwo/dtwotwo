@@ -54,7 +54,7 @@
 
 #### stinky
 
-![count](https://count.getloli.com/get/@D_TWO_TWO?theme=rule34)
+![count](https://count.getloli.com/get/@D_TWO_TWO?theme=rule34&darkmode=0)
 
 ##### heh
 
