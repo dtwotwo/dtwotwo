@@ -44,6 +44,8 @@
 
 <img src="img/daw/reaper.png" alt="reaper" />
 
+<img src="img/daw/logicpro.png" alt="logicpro" />
+
 <img src="img/daw/protools.png" alt="protools" />
 
 ---
