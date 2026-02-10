@@ -54,6 +54,8 @@
 
 [![stats](https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![streaks](https://github-readme-streak-stats.herokuapp.com?user=dtwotwo&theme=tokyonight)](https://git.io/streak-stats)
+
 #### stinky
 
 ![count](https://count.getloli.com/get/@D_TWO_TWO?theme=rule34&darkmode=0)
