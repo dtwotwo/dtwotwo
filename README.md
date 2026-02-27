@@ -15,9 +15,9 @@
 
 ### languages that i use or know:
 
-![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,py,c)
+![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,c,py)
 
-![Languages2](https://skillicons.dev/icons?i=java,kotlin,js,lua)
+![Languages2](https://skillicons.dev/icons?i=java,dart,js,ts,lua)
 
 ### shader stuff i know:
 
