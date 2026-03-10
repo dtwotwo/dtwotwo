@@ -19,7 +19,7 @@
 
 ![Languages2](https://skillicons.dev/icons?i=java,dart,js,ts,lua)
 
-### planned to learn
+### planned to learn:
 
 ![Languages3](https://skillicons.dev/icons?i=golang)
 
