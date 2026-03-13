@@ -89,8 +89,8 @@ uhh...
 
 ---
 
-<img src="img/nesquik.gif" width="500" height="200" alt="nesquick" />
-<p><i>"nesquik."</i></p>
+<img src="img/kot.jpg" width="250" alt="pipiska" />
+<p><i>my cat - "kot"</i></p>
 
 ---
 
