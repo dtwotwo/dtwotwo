@@ -13,33 +13,43 @@
 
 ---
 
-### languages that i use or know:
+*kinda stinky below*
 
-![Languages](https://skillicons.dev/icons?i=haxe,cpp,cs,c,py)
+### languages or other that i use or know:
 
-![Languages2](https://skillicons.dev/icons?i=java,dart,js,ts,lua)
+![Languages](https://skillicons.dev/icons?i=haxe,cpp,c,cs,py,java)
 
-### planned to learn:
+![Languages2](https://skillicons.dev/icons?i=dart,js,ts,lua,powershell)
 
-![Languages3](https://skillicons.dev/icons?i=golang)
+![Languages3](https://skillicons.dev/icons?i=html,css,regex,md)
 
-oh
+#### planned to learn:
+
+![LanguagesPlan](https://skillicons.dev/icons?i=golang,rust)
+
+uhh...
 
 ### shader stuff i know:
 
-<img src="img/gl/gl.png" alt="opengl" />
-<img src="img/gl/gles.png" alt="opengl-es" />
-<img src="img/gl/webgl.png" alt="webgl" />
+<img src="img/shader/gl.png" alt="opengl" />
+<img src="img/shader/gles.png" alt="opengl-es" />
+<img src="img/shader/webgl.png" alt="webgl" />
 
-### i build stuff with:
+#### planned to learn:
 
-![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet)
+<img src="img/shader/vulkan.png" alt="vulkan" />
 
-![Tools](https://skillicons.dev/icons?i=qt,godot,git,cmake)
+*uh Direct3D maybe...*
+
+### i build or make stuff with:
+
+![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,godot,spring,flutter)
+
+![Tools2](https://skillicons.dev/icons?i=maven,threejs,qt,git,cmake,githubactions,npm)
 
 ### where code happens?
 
-![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
+![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim)
 
 ### where music happens?
 
@@ -52,6 +62,16 @@ oh
 <img src="img/daw/logicpro.png" alt="logicpro" />
 
 <img src="img/daw/protools.png" alt="protools" />
+
+<img src="img/daw/openmpt.png" alt="openmpt" />
+
+<img src="img/daw/renoise.png" alt="renoise" />
+
+### OS i use or used (yea):
+
+![os](https://skillicons.dev/icons?i=windows,ubuntu,kali,apple)
+
+*btw i **dont** use arch*
 
 ---
 
@@ -75,9 +95,14 @@ oh
 ---
 
 ### that's all for now. thanks for scrolling.
+#### now you can check my social medias (if you want)
 
-<img src="img/bleh.gif" alt="goodbye" />
+look! cool tomoko
 
-bleh
+<img src="img/tomoko.gif" width="200" alt="tomoko" />
+
+watamote!!!
+
+larpin larp❤️
 
 </div>
