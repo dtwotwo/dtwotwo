@@ -15,7 +15,7 @@
 
 *kinda stinky below*
 
-### languages or other that i use or know:
+### languages or lang stuff that i use or know:
 
 ![Languages](https://skillicons.dev/icons?i=haxe,cpp,c,cs,py,java)
 
