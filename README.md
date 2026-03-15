@@ -31,13 +31,13 @@ uhh...
 
 ### shader stuff i know:
 
-<img src="img/shader/gl.png" alt="opengl" />
-<img src="img/shader/gles.png" alt="opengl-es" />
-<img src="img/shader/webgl.png" alt="webgl" />
+<img src="img/shader/gl.svg" width="130" alt="opengl" />
+<img src="img/shader/gles.svg" width="160" alt="opengl-es" />
+<img src="img/shader/webgl.svg" width="130" alt="webgl" />
 
 #### planned to learn:
 
-<img src="img/shader/vulkan.png" alt="vulkan" />
+<img src="img/shader/vulkan.svg" width="165" alt="vulkan" />
 
 *uh Direct3D maybe...*
 
@@ -53,19 +53,19 @@ uhh...
 
 ### where music happens?
 
-<img src="img/daw/ableton.svg" alt="ableton" />
+<img src="img/daw/ableton.svg" width="48" alt="ableton" />
 
-<img src="img/daw/fl.png" alt="fl" />
+<img src="img/daw/fl.png" width="48"  alt="fl" />
 
-<img src="img/daw/reaper.png" alt="reaper" />
+<img src="img/daw/reaper.svg" width="48" alt="reaper" />
 
-<img src="img/daw/logicpro.png" alt="logicpro" />
+<img src="img/daw/logicpro.png" width="48"  alt="logicpro" />
 
-<img src="img/daw/protools.png" alt="protools" />
+<img src="img/daw/protools.svg" width="50" alt="protools" />
 
-<img src="img/daw/openmpt.png" alt="openmpt" />
+<img src="img/daw/openmpt.svg" width="48" alt="openmpt" />
 
-<img src="img/daw/renoise.png" alt="renoise" />
+<img src="img/daw/renoise.png" width="48" alt="renoise" />
 
 ### OS i use or used (yea):
 
