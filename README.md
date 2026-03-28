@@ -7,7 +7,7 @@
 
 ### what i do:
 
-### 🎹 **9 years** making music (3/29/2016)
+### 🎹 **10 years** making music (3/29/2016)
 
 ### ⌨️ **4 years** programming (10/7/2021)
 
