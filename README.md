@@ -89,15 +89,16 @@ uhh...
 
 ---
 
-<img src="img/kot.jpg" width="250" alt="pipiska" />
-<p><i>my cat - "kot"</i></p>
+<img src="img/koti/kot.jpg" width="250" alt="pipiska" />
+<img src="img/koti/lucik.jpg" width="250" alt="pipiska tiny" />
+<p><i>my cats - "Kot" & "Lucik"</i></p>
 
 ---
 
 ### that's all for now. thanks for scrolling.
 #### now you can check my social medias (if you want)
 
-look! cool tomoko
+look! spinning tomoko!! cool!!!
 
 <img src="img/tomoko.gif" width="200" alt="tomoko" />
 
