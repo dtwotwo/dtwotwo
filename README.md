@@ -73,7 +73,7 @@ uhh...
 
 [![stats](https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![streaks](https://github-readme-streak-stats.herokuapp.com?user=dtwotwo&theme=tokyonight)](https://git.io/streak-stats)
+[![streaks](https://github-readme-streak-stats-eight.vercel.app/?user=dtwotwo&theme=tokyonight)](https://git.io/streak-stats)
 
 [![top langs](https://github-readme-stats-seven-nu-92.vercel.app/api/top-langs/?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
