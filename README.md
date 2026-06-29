@@ -19,7 +19,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=haxe,cpp,c,cs,py,java)
 
-![Languages2](https://skillicons.dev/icons?i=dart,js,ts,react,lua,powershell)
+![Languages2](https://skillicons.dev/icons?i=dart,js,ts,lua,powershell)
 
 ![Languages3](https://skillicons.dev/icons?i=html,css,regex,md)
 
@@ -43,7 +43,7 @@ uhh...
 
 ### i build or make stuff with:
 
-![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,godot,spring,flutter)
+![Tools](https://skillicons.dev/icons?i=haxeflixel,unity,dotnet,godot,spring,flutter,react)
 
 ![Tools2](https://skillicons.dev/icons?i=maven,threejs,qt,git,cmake,githubactions,npm)
 
