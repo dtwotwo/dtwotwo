@@ -63,9 +63,7 @@ uhh...
 
 ### OS i use or used (yea):
 
-![os](https://skillicons.dev/icons?i=windows,ubuntu,kali,apple)
-
-*btw i **dont** use arch*
+![os](https://skillicons.dev/icons?i=windows,arch,apple)
 
 ---
 
