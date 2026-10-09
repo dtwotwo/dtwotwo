@@ -160,15 +160,15 @@ stuff planned for learn
 <picture>
 	<source
 		media="(prefers-color-scheme: dark)"
-		srcset="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&hide_border=true&rank_icon=github"
+		srcset="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&hide_border=true"
 	/>
 	<source
 		media="(prefers-color-scheme: light)"
-		srcset="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=default&text_bold=true&hide_border=true&rank_icon=github"
+		srcset="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=default&text_bold=true&hide_border=true"
 	/>
 	<img
 		height="170"
-		src="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&hide_border=true&rank_icon=github"
+		src="https://github-readme-stats-seven-nu-92.vercel.app/api?username=dtwotwo&show_icons=true&theme=tokyonight&text_bold=true&hide_border=true"
 		alt="github stats"
 	/>
 </picture>
